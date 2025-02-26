@@ -21,7 +21,7 @@ The **Sales Data Dashboard** is an interactive and visually appealing dashboard 
 5. Explore the interactive visualizations!
 
 ## 📷 Preview
-![Dashboard Preview](https://your-image-link.com)
+![Dashboard Preview](Project Images/Screenshot 2025-02-26 144926.png)
 
 ## 🛠️ Tools & Technologies Used
 - **Tableau** - Data Visualization
